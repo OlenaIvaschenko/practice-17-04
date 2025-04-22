@@ -5,7 +5,7 @@ import { GiTreeDoor } from 'react-icons/gi';
 import StatisticsItem from '../StatisticsItem/StatisticsItem';
 import style from './Statistics.module.css';
 
-const icons = [<FaRegThumbsUp key="1"/>, <MdPeople key="2"/>,<MdOutlineProductionQuantityLimits key="3"/>, <GiTreeDoor key="4"/>
+const icons = [<FaRegThumbsUp key="1"/>, <MdPeople key="2"/>, <MdOutlineProductionQuantityLimits key="3"/>, <GiTreeDoor key="4"/>
 
  ]
 
