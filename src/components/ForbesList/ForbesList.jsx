@@ -22,12 +22,7 @@ const ForbesList = ({list}) => {
            avatar={avatar} 
            name={name}
            capital={capital}
-           isIncrease={isIncrease}
-           
-
-
-
-
+            isIncrease={isIncrease}
 
            />
         </li>
